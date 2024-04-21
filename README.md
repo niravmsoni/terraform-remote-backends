@@ -1,2 +1,2 @@
 # terraform-remote-backends
-Demonstration of storing state file on a remote backend
+Demonstration of storing state file on a remote backend - Pending
